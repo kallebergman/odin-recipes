@@ -1,2 +1,2 @@
 # odin-recipes
-aA basic recipe website
+A basic recipe website
